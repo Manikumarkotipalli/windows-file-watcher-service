@@ -48,5 +48,5 @@ public class Worker : BackgroundService
         {
             _logger.LogError($"Error processing file: {ex.Message}");
         }
-    }
+    } 
 }
