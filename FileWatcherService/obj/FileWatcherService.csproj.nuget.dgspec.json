@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ManikumarKotipalli\\windows-file-watcher-service\\FileWatcherService\\FileWatcherService.csproj": {}
+    "C:\\Users\\Manikumarkotipalli\\windows-file-watcher-service\\FileWatcherService\\FileWatcherService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ManikumarKotipalli\\windows-file-watcher-service\\FileWatcherService\\FileWatcherService.csproj": {
+    "C:\\Users\\Manikumarkotipalli\\windows-file-watcher-service\\FileWatcherService\\FileWatcherService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ManikumarKotipalli\\windows-file-watcher-service\\FileWatcherService\\FileWatcherService.csproj",
+        "projectUniqueName": "C:\\Users\\Manikumarkotipalli\\windows-file-watcher-service\\FileWatcherService\\FileWatcherService.csproj",
         "projectName": "FileWatcherService",
-        "projectPath": "C:\\Users\\ManikumarKotipalli\\windows-file-watcher-service\\FileWatcherService\\FileWatcherService.csproj",
+        "projectPath": "C:\\Users\\Manikumarkotipalli\\windows-file-watcher-service\\FileWatcherService\\FileWatcherService.csproj",
         "packagesPath": "C:\\Users\\ManikumarKotipalli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ManikumarKotipalli\\windows-file-watcher-service\\FileWatcherService\\obj\\",
+        "outputPath": "C:\\Users\\Manikumarkotipalli\\windows-file-watcher-service\\FileWatcherService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ManikumarKotipalli\\AppData\\Roaming\\NuGet\\NuGet.Config"

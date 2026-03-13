@@ -46,3 +46,4 @@ C:\Users\ManikumarKotipalli\windows-file-watcher-service\FileWatcherService\obj\
 C:\Users\ManikumarKotipalli\windows-file-watcher-service\FileWatcherService\obj\Debug\net8.0\FileWatcherService.pdb
 C:\Users\ManikumarKotipalli\windows-file-watcher-service\FileWatcherService\obj\Debug\net8.0\FileWatcherService.genruntimeconfig.cache
 C:\Users\ManikumarKotipalli\windows-file-watcher-service\FileWatcherService\obj\Debug\net8.0\ref\FileWatcherService.dll
+C:\Users\Manikumarkotipalli\windows-file-watcher-service\FileWatcherService\obj\Debug\net8.0\FileWatcherService.sourcelink.json
